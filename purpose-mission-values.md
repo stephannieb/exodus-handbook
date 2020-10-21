@@ -5,16 +5,16 @@
 Our purpose is the “why” in what we do. What is our “why”? Our fundamental, shared belief is that people have a right to control their wealth.
 
 
-*The purpose of Exodus is to revolutionize the financial system.*
+**The purpose of Exodus is to revolutionize the financial system.**
 
 
 The blockchain, for the first time in history, has created a movement to shift power back to the people to manage their own assets - with no banks, no brokers, and no institutional oversight. We created Exodus for these visionaries, explorers departing the legacy system to protect and create wealth for future generations.
 
-## *Our Mission*
+## **Our Mission**
 
 By 2030, half of the planet will Exodus the traditional financial system.
 
-## *Our Values*
+## **Our Values**
 
 As a customer-centric company, we deliver high value to our users, and our employees are simultaneously fulfilled. The customer experience takes the forefront and is the driving force behind nearly all of our business decisions. Internally, we follow a set of strong values that bring us together in our mission of driving the company forward.
 
